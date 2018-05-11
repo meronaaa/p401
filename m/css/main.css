@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.main_visual > img {width:100%}
+
+/* main content */
+.mainmenu_wrap {width: 100%; padding: 10px 5px; box-sizing: border-box;padding-bottom: 10px;}
+.mainmenu {padding:10px;padding-top: 0;}
+.mainmenu li {width:33.333%; position: relative;float: left;text-align: center;box-sizing: border-box;padding: 5px;margin-top: 15px;}
+.mainmenu li a img {width:100%;}
+
+.mainmenu li p img {width:23%;position: absolute;bottom:40px;right:1px;}
+.mainmenu li a span {width:100%;margin-top: 15px;display: block;font-weight: 400;font-size: 18px;}
